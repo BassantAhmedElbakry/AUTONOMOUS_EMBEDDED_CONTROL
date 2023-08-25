@@ -1,5 +1,5 @@
 # AUTONOMOUS_EMBEDDED_CONTROL
-<br> Send frame to car using UART containes of 8-bits:
+Send frame to car using UART containes of 8-bits:
 <br> First 3-bits  --> Speed of DC Motor [0 --> 100]
 <br> Bit_4         --> Direction of DC Motor [F or f or B or b]
 <br> Bit_5 & Bit_6 --> Angle of Stepper Motor [0 --> 45]
